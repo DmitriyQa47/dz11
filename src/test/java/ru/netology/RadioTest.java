@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-public class PosterManagerTest {
+public class RadioTest {
     PosterManager manager = new PosterManager(5);
 
     @BeforeEach
